@@ -1,4 +1,3 @@
-# Movie-Review-Model
 # Movie Review Sentiment Analysis using Bag of Words and Naïve Bayes
 
 ## **Project Overview**
